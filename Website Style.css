@@ -1,0 +1,11 @@
+.center-content {
+    text-align: center;
+  }
+  
+  .Portrait {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
