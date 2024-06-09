@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background: linear-gradient(to right, rgb(22, 64, 143), rgb(14, 245, 233));
+    background: linear-gradient(rgb(22, 64, 143), rgb(14, 245, 233));
     /* or plum pink */
     font-family: 'Trebuchet MS';
     color: black;
